@@ -1,4 +1,7 @@
 # District Development Portal
+```diff
+- unfinished, deprecated
+```
 This is a project initiated for the purpose of participating in smart india hackathon 2k18.
 
 We're going to breakdown the whole project into 3 main modules. I.e., creation portal, approval portal and the viewing portal.
